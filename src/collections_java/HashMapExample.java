@@ -25,9 +25,9 @@ public class HashMapExample {
 
 		System.out.println(HM.clone());
 		System.out.println(HM.containsValue("Japan"));
-		
+
 		HashMap<String, String> HP= new HashMap<String, String>();
-		
+
 		HP.put("Asia", "Japan");
 		HP.put("NorthAmerica", "USA");
 		HP.put("Europe", "Germany");
@@ -36,3 +36,4 @@ public class HashMapExample {
 
 
 }
+
